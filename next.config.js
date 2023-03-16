@@ -3,10 +3,7 @@
  */
 
 const nextConfig = {
-  reactStrictMode: true,
-  experimental: {
-    runtime: 'edge',
-  }
+  reactStrictMode: true
 };
 
 module.exports = nextConfig;
